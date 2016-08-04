@@ -1,0 +1,38 @@
+_repo: Beasts-Men-and-Gods_2067
+_version: 0.0.1
+alternative_title: Tiere, Menschen und Götter. English
+contributor:
+  translator:
+    agent_name: Palen, Lewis Stanton
+    birthdate: 1876
+    gutenberg_agent_id: '38626'
+    url: http://www.gutenberg.org/2009/agents/38626
+creator:
+  author:
+    agent_name: Ossendowski, Ferdynand Antoni
+    aliases:
+    - Ossendowski, F. A. (Ferdynand Antoni)
+    - Ossendowski, Antoni Ferdynand
+    - Ossendowski, Ferdinand A.
+    - Ossendowski, Ferdinand Anthony
+    birthdate: 1878
+    deathdate: 1945
+    gutenberg_agent_id: '809'
+    url: http://www.gutenberg.org/2009/agents/809
+    wikipedia: http://en.wikipedia.org/wiki/Ferdynand_Antoni_Ossendowski
+description: ''
+gutenberg_issued: '2006-05-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2067'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Communism -- Soviet Union'
+- !lcc 'DS'
+- !lcsh 'Mongolia -- Description and travel'
+- GITenberg
+title: Beasts, Men and Gods
+url: http://www.gutenberg.org/ebooks/2067
