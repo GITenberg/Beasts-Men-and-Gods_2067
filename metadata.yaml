@@ -1,5 +1,5 @@
 _repo: Beasts-Men-and-Gods_2067
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Tiere, Menschen und Götter. English
 contributor:
   translator:
@@ -7,6 +7,9 @@ contributor:
     birthdate: 1876
     gutenberg_agent_id: '38626'
     url: http://www.gutenberg.org/2009/agents/38626
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ossendowski, Ferdynand Antoni
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/809
     wikipedia: http://en.wikipedia.org/wiki/Ferdynand_Antoni_Ossendowski
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2067#Beasts-Men-and-Gods
 gutenberg_issued: '2006-05-14'
 gutenberg_type: Text
 identifiers:
